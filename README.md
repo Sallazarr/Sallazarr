@@ -4,7 +4,7 @@ Hi 👋 My name is Henrique Salazar da Silva
 Web Developer
 -------------
 
-I started studying in 2022 but never really understood anything. In 2024, I came back more focused and began studying with more dedication, coding along with the lessons. I'm currently studying at QI Faculdades & Escola Técnica and OneBitCode. I primarily want to be a Frontend developer, but I want to specialize further and become a Fullstack developer.
+I'm currently studying at QI Faculdades & Escola Técnica and OneBitCode. I primarily want to be a Frontend developer, but I want to specialize further and become a Fullstack developer.
 
 *   🌍  I'm based in Porto Alegre
 *   ✉️  You can contact me at [henriquesalazards16@hotmail.com](mailto:henriquesalazards16@hotmail.com )
