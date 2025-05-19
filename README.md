@@ -8,7 +8,7 @@ I'm currently studying at QI Faculdades & Escola Técnica, Alura, Geração Cald
 
 *   🌍  I'm based in Porto Alegre
 *   ✉️  You can contact me at [henriquesalazards16@hotmail.com](mailto:henriquesalazards16@hotmail.com )
-*   🧠  I'm learning SQL, JavaScript and its frameworks
+*   🧠  I'm always learning new languages and improving my skills in languages I already know
 *   🤝  I'm open to collaborating on projects
 *   ### Skills 
 <p align="left">
