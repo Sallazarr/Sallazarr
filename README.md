@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de programação em constante evolução.<br>Atualmente atuo como Estagiário Analista de Suporte Técnico na Payer, onde desenvolvo habilidades de atendimento, resolução de problemas técnicos e suporte a usuários, enquanto me preparo para migrar para a área de desenvolvimento.</p>
+<p align="left">Estudante de programação em constante evolução.<br>Atualmente atuo como Estagiário Analista de Suporte Técnico em uma empresa no segmento de meios de pagamentos com TEF (Payer), onde desenvolvo habilidades de atendimento, resolução de problemas técnicos e suporte a usuários, enquanto me preparo para migrar para a área de desenvolvimento.</p>
 
 ###
 
